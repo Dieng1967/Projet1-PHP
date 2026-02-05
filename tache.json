@@ -1,0 +1,29 @@
+[
+    {
+        "id": "6984e3a480849",
+        "titre": "R\u00e9viser PHP",
+        "description": "Faire les exercices du chapitre 3 sur les fonctions.",
+        "priorite": "basse",
+        "statut": "termin\u00e9e",
+        "date_creation": "2026-02-05",
+        "date_limite": "2026-03-02"
+    },
+    {
+        "id": "6984e3fdad761",
+        "titre": "Projet JavaScript",
+        "description": "Cr\u00e9er une petite application avec DOM et \u00e9v\u00e9nements.",
+        "priorite": "moyenne",
+        "statut": "\u00e0 faire",
+        "date_creation": "2026-02-05",
+        "date_limite": "2026-02-04"
+    },
+    {
+        "id": "6984e4cb1a88f",
+        "titre": "Envoyer rapport au professeur",
+        "description": "Finaliser et envoyer le rapport du mini projet.",
+        "priorite": "haute",
+        "statut": "termin\u00e9e",
+        "date_creation": "2026-02-05",
+        "date_limite": "2026-02-07"
+    }
+]
